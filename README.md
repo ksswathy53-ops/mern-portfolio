@@ -22,7 +22,7 @@ I am a MERN Stack Developer passionate about building scalable, user-friendly, a
 
 ### Tools & Deployment
 - Git & GitHub
-- Vercel / Netlify (whichever you use)
+- Netlify 
 
 ---
 
