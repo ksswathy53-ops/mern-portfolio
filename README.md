@@ -66,7 +66,7 @@ npm run dev
 
 
 
-## 📬 Contact
+##  Contact
 
 - Email: ksswathy53@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/swathyks-a7b8472b3/
